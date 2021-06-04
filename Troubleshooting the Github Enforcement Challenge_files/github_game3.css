@@ -1,0 +1,41 @@
+
+div.main-ctn{
+    margin-top: 2px;
+}
+
+
+.helpBtn.metaTooltipRight{
+    top: 200px;
+}
+
+.reloadBtn.metaTooltipRight{
+    top: 230px;
+}
+
+.audioBtn.metaTooltipRight{
+    top: 260px;
+}
+
+.meta_buttons span{
+    color: #2f2f2f !important;
+}
+
+
+#victoryScreen:before{
+    content: url(https://cdn.arkoselabs.com/fc/assets/graphics/github/GitHubSimpleGreenTick2.png);
+}
+
+#victoryScreen:after{
+    content:url("");
+}
+
+
+#victoryWait{
+    visibility: hidden;
+}
+
+
+div.main-ctn, #CaptchaFrame, #CaptchaFrame2{
+    height: 265px !important;
+}
+
